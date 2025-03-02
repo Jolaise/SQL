@@ -26,4 +26,22 @@ VALUES
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
     
     
--- © Copyright 2025 Break Into Tech  --
+
+# Write a SQL query that lists information about what cstomers will find at the big retail store.
+
+SELECT *
+FROM superstore;
+
+# How much is the total cost of items available to purchase for the kitchen?
+SELECT SUM(price)
+FROM superstore
+WHERE category= 'Kitchen Supplies'
+Order By price;
+
+
+
+
+
+
+
+
