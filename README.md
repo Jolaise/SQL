@@ -1,2 +1,2 @@
 # SQL
-SQL Portfolio
+Developed a series of SQL queries using simulated real‑world data to practice foundational analytical techniques. Demonstrated skills in filtering datasets, creating calculated metrics with aliases, categorizing companies with CASE statements, and using aggregate functions with HAVING to evaluate industry trends. Also applied a correlated subquery to compare maternity leave policies across industries. This project showcases my ability to write clean, entry‑level SQL and answer practical business questions in HR and operational analytics.
